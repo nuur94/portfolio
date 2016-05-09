@@ -1,0 +1,60 @@
+@import url('http://weloveiconfonts.com/api/?family=entypo');
+
+footer {
+    bottom: 0;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.wrapper {
+    padding-top: 10px;
+    text-align: center;
+
+
+}
+
+.social {
+  display: inline-block;
+  width: 37.5px;
+  height: 37.5px;
+  margin: 0 10px;
+  line-height: 37.5px;
+  font-family: Entypo;
+  font-size: 21px;
+  text-align: center;
+  color: black;
+  border-radius: 0%;
+  overflow: hidden;
+  cursor: pointer;
+  position: relative;
+}
+
+
+h6 {
+    text-align: center;
+    letter-spacing: 10px;
+}
+
+.top svg{
+    width: 40px;
+    margin: 0;
+    padding: 0;
+}
+
+.top {
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+
+
+
+.hline {
+    width: 55%;
+    margin: 0 auto;
+    padding-bottom: 10px;
+}
+
+#Capa_1:hover {
+    fill:red;
+}

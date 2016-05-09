@@ -1,0 +1,22 @@
+.work-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding-bottom: 150px;
+    padding-top: 150px;
+    @include clearfix;
+    
+    img {
+        max-width: 100%;
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+
+}
+
+
+.work-return {
+    @include position(absolute, 170px null null null);
+    cursor: pointer;
+    @include size(25px);
+
+}

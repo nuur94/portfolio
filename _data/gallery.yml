@@ -1,0 +1,10 @@
+#--------------------------
+# Work Section
+
+projects:
+- {name: Moonwrench, folder: 'proj-1'}
+- {name: Randomtitle, folder: 'proj-2'}
+- {name: AnotherTitle, folder: 'proj-3'}
+- {name: ThirdTitle, folder: 'proj-4'}
+- {name: Water, folder: 'proj-5'}
+- {name: Sun, folder: 'proj-6'}
